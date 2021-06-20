@@ -124,6 +124,7 @@
      }
      #p2h1 {
          margin: 20px;
+          font-size:33px;
      }
      .header {
          justify-content: space-between;
@@ -155,10 +156,6 @@
          top: 100%;
          left: 0px;
          padding: 10px 20px 0px 30px;
-     }
-     #p2h1 {
-         margin-top: 50px;
-         font-size: 40px;
      }
      .s1 {
          display: flex;
